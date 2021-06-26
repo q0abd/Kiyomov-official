@@ -30,12 +30,3 @@
 //     if(a%5==0)
 //     console.log(a)
 // }
-
-
-// for(var a=1;a<=10;a++){
-//     if(a%2==0)
-//         console.log(a)
-//     else if(a%2!=0)
-//         console.log(a)
-// }
-
