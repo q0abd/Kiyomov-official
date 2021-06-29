@@ -9,7 +9,7 @@ for(i=0; i<a.length ;i++){
         summa++
     }
     
-// str=str.replace('pdp', 'it');
+// str=str.replace('pdp', 'it')
 }
 console.log(summa);
 
@@ -34,6 +34,6 @@ console.log(sum);
 
 
 let pharf = (sum+summa)/2     //O'rta arifmetic
-    dharf = Math.sqrt(sum*summa)
+    dharf = Math.sqrt(sum*summa) //O'rta geometric
 console.log(pharf, dharf);
 

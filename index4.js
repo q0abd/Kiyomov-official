@@ -1,31 +1,31 @@
-// First
+// // First
 // for(let a = 10; a>=0;a--){
 // console.log(a)
 // }
 
 
-// Second
+// // Second
 // for(var a=10;a>=1;a--){
 //     if(a%2!=0)
 //     console.log(a)
 // }
 
 
-// Third
+// // Third
 // for(var a=10;a>1;a--){
 //     if(a%2==0)
 //     console.log(a)
 // }
 
 
-// Fourth
+// // Fourth
 // for(var a=1;a<100;a++){
 //     if(a%3==0)
 //     console.log(a)
 // }
 
-
-// Fifth
+// // 
+// // Fifth
 // for(var a=1;a<100;a++){
 //     if(a%5==0)
 //     console.log(a)
